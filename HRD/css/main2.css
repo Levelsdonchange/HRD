@@ -1,0 +1,11 @@
+body
+{
+overflow-x:hidden;
+width:100%;
+font: 15px "Century Gothic", "Times Roman", sans-serif;
+background:#eee;
+height:100%;
+background-attachment:fixed;
+background:url(../image/new2.jpg)no-repeat center center fixed;  
+   
+}

@@ -1,0 +1,197 @@
+body
+{
+overflow-x:hidden;
+width:100%;
+font: 15px "Century Gothic", "Times Roman", sans-serif;
+background:#eee;
+height:100%;
+background-attachment:fixed;
+background:url(../image/new.jpg); 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;    
+   
+}
+
+.bg3{
+background:url(../image/new.jpg);      
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+
+.time{
+    padding-top: 10px;
+}
+
+@font-face {
+   font-family: 'typo';
+    src: url('../fonts/typo.ttf');
+	}
+
+@font-face {
+   font-family: 'gothic';
+    src: url('../fonts/gothics.ttf');
+	}
+
+.panel{
+border-color:#eee;
+margin:s0px;
+padding:20px;
+font: 15px "Century Gothic", "Times Roman", sans-serif;
+}
+
+.title
+{
+font-family:'typo';
+}
+
+.header
+{
+background:#202020;
+height:63px;
+}
+.logo
+{
+font-family:'typo';
+font-size:35px;
+color:#202020;
+margin:15px;
+padding-bottom: 10px;
+}
+
+.title1{
+font: 16px "Century Gothic", "Times Roman", sans-serif;
+}
+.title2{
+font-family: 'Ubuntu', sans-serif;
+font-size:20px;
+}
+
+
+.sub1
+{
+width:90px;
+color:#202020;
+background:orange;
+font-size:15px;
+height:35px;
+margin:20px;
+padding:10px;
+width:100px;
+}
+.sub1:hover{
+    color: #fff;
+}
+.navbar:hover{
+    color: #fff;
+}
+.navbar-inverse .nav > li > a:hover{
+    color: #fff;
+}
+
+
+.li:hover{
+    color: #fff;
+}
+
+.a:hover{
+    color: #fff;
+}
+
+.sub2
+{
+background:orange;
+border: none;
+color:#202020;    
+}
+.sub2:hover{
+    color: #fff;
+}
+
+.sub
+{
+width:100%;
+background-color:#1CFF2C;
+font-size:20px;
+padding:2px;
+margin-top:15px;
+margin-right:20px;
+}
+
+#butn:hover
+{
+color:#fff;
+}
+
+.footer
+{
+font-size:15px;
+text-align:center;
+bottom:0px;
+left: 0px;
+right: 0px; 
+position:inherit;    
+margin: 0% 0% 0% 0%;    
+margin-bottom: 0%;    
+border-top:1px solid;
+border-color:#323232;
+background-color:#202020;
+}
+.footer a
+{
+margin:25px;
+color:orange;
+text-decoration:none;
+font: 15px "Century Gothic", "Times Roman", sans-serif;
+
+}
+.footer a:hover
+{
+text-decoration:none;
+color:#9acd32;
+border-top:2px solid;
+border-color:orange;
+
+}
+
+.box
+{
+padding:9px;
+}
+hr{
+color:#000000;
+}
+.top
+{
+margin-top:20px;
+}
+.log1
+{
+font: 15px 'Ubuntu', sans-serif;
+color:orange;
+margin-left:10px;
+}
+
+.log
+{
+margin:10px;
+margin-right:60px;
+margin-left:5px;
+color:orange;
+text-decoration:none;
+font-size:20px;
+font-size:15px;
+}
+.log:hover
+{
+color:#9acd32;
+border-top:2px solid;
+border-color:orange;
+text-decoration:none;
+}
+
+
